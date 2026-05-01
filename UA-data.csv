@@ -1,7 +1,7 @@
 ua_string,device_type,os,browser
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/112.0.0.0 Safari/537.36,Desktop,Windows,Chrome
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:112.0) Gecko/20100101 Firefox/112.0,Desktop,Windows,Firefox
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edge/112.0.1722.48 Safari/537.36,Desktop,Windows,Edge
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Edge/112.0.1722.48 Safari/537.36,Desktop,Windows,Edge
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605.1.15,Desktop,macOS,Safari
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/112.0.0.0 Safari/537.36,Desktop,macOS,Chrome
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Firefox/112.0,Desktop,macOS,Firefox
